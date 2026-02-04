@@ -8,7 +8,7 @@ I turn raw data into **accurate, actionable insights** that support business and
 - 📊 Experience with EDA, KPI reporting, and dashboards  
 - 💬 Ask me about SQL queries, Power BI dashboards, and data analysis  
 
-📫 **Email:** Saurabhkushamwar@example.com  
+📫 **Email:** Saurabhkushamwar@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/saurabhkushamwar
 
 ⭐ Exploring data to uncover insights that drive better decisions
