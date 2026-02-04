@@ -1,36 +1,55 @@
-# 📊 Saurabh | Data Analyst Portfolio
+# 👋 Hi, I'm Saurabh Kushamwar  
 
-Welcome to my GitHub repository!  
-I’m **Saurabh**, a **Data Analyst** focused on transforming raw data into accurate, clear, and actionable insights. This repository highlights my work in data cleaning, exploratory analysis, visualization, and reporting using real-world datasets.
-
----
-
-## 🧠 About Me
-- Detail-oriented Data Analyst with strong analytical and problem-solving skills  
-- Experience working with structured datasets and business metrics  
-- Focused on data accuracy, reproducibility, and insight-driven results  
+A passionate **Data Analyst 📊** from **India**, dedicated to transforming data into meaningful insights that support data-driven decision-making.
 
 ---
 
-## 🛠️ Skills & Tools
+## 👨‍💻 About Me
+🔍 Lifelong learner continuously exploring **Data Analytics**  
+🌱 Currently upskilling in analytics tools and techniques  
+❤️ Passionate about learning new things and solving problems with data  
 
-### Programming & Querying
-- **Python:** pandas, NumPy, matplotlib, seaborn  
-- **SQL:** joins, subqueries, CTEs, window functions  
+---
 
-### Data Visualization
+## 🧰 Analytics Toolbox
+- **Languages & Querying:** SQL, Python  
+- **Data Visualization:** Power BI, MS Excel  
+- **Data Modeling & Transformation:** DAX, Power Query  
+- **Other Tools:** Git, GitHub, Jupyter Notebook  
+
+---
+
+## 📚 Areas of Expertise
+- Data Collection  
+- Data Cleaning & Validation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Reporting  
+
+---
+
+## 💬 Ask Me About
+- SQL  
 - Power BI  
-- Tableau  
-- Excel (PivotTables, Power Query, formulas)
-
-### Databases
-- PostgreSQL  
-- MySQL  
-
-### Other Tools
-- Git & GitHub  
-- Jupyter Notebook  
+- Data Analysis  
 
 ---
 
-## 📂 Repository Structure
+## 📬 Reach Me At
+📧 **Email:** your.email@example.com  
+
+---
+
+## 🔗 Connect With Me on LinkedIn
+🌐 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
+
+---
+
+## 📂 What You'll Find in This Repository
+- Well-documented data analysis projects  
+- Clean and reproducible code  
+- Business-focused insights and dashboards  
+- Practical use cases with real-world datasets  
+
+---
+
+⭐ If you find my work interesting, feel free to explore, fork, or connect!
