@@ -1,55 +1,14 @@
-# 👋 Hi, I'm Saurabh Kushamwar  
+## 👋 Hi, I'm Saurabh Kushamwar  
+**Data Analyst | SQL | Python | Power BI**
 
-A passionate **Data Analyst 📊** from **India**, dedicated to transforming data into meaningful insights that support data-driven decision-making.
+I turn raw data into **accurate, actionable insights** that support business and operational decision-making.
 
----
+- 🔍 Strong focus on data cleaning, analysis, and visualization  
+- 🧰 SQL | Python | Power BI | DAX | Power Query | MS Excel  
+- 📊 Experience with EDA, KPI reporting, and dashboards  
+- 💬 Ask me about SQL queries, Power BI dashboards, and data analysis  
 
-## 👨‍💻 About Me
-🔍 Lifelong learner continuously exploring **Data Analytics**  
-🌱 Currently upskilling in analytics tools and techniques  
-❤️ Passionate about learning new things and solving problems with data  
+📫 **Email:** Saurabhkushamwar@example.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/saurabhkushamwar
 
----
-
-## 🧰 Analytics Toolbox
-- **Languages & Querying:** SQL, Python  
-- **Data Visualization:** Power BI, MS Excel  
-- **Data Modeling & Transformation:** DAX, Power Query  
-- **Other Tools:** Git, GitHub, Jupyter Notebook  
-
----
-
-## 📚 Areas of Expertise
-- Data Collection  
-- Data Cleaning & Validation  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Reporting  
-
----
-
-## 💬 Ask Me About
-- SQL  
-- Power BI  
-- Data Analysis  
-
----
-
-## 📬 Reach Me At
-📧 **Email:** Saurabhkushamwar@gmail.com  
-
----
-
-## 🔗 Connect With Me on LinkedIn
-🌐 **LinkedIn:** https://www.linkedin.com/in/saurabhkushamwar
-
----
-
-## 📂 What You'll Find in This Repository
-- Well-documented data analysis projects  
-- Clean and reproducible code  
-- Business-focused insights and dashboards  
-- Practical use cases with real-world datasets  
-
----
-
-⭐ If you find my work interesting, feel free to explore, fork, or connect!
+⭐ Exploring data to uncover insights that drive better decisions
